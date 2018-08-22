@@ -1,0 +1,109 @@
+body{
+  margin-top: 40px;
+}
+
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+      font-size: 18px;
+      position: relative;
+      top: 3px;
+      text-align: center;
+      width: 21px;
+}
+
+.navbar-brand{
+  letter-spacing: 3px;
+  font-size:15px !important;
+}
+
+.headin {
+  font-family: 'Quicksand';
+}
+
+.handwritten {
+  font-family: 'Indie Flower', cursive;
+}
+
+h1{
+  letter-spacing: 2px;
+}
+
+h2{
+  margin-top: 10px;
+}
+
+.support {
+  -webkit-transition-duration: 0.4s; /
+  transition-duration: 0.4s;
+  background-color: transparent;
+  color: black;
+  border: 2px solid #88b4fc; 
+  color: white;
+}
+
+.support:hover {
+  background-color: #88b4fc; /* Green */
+  color: black;
+}
+
+.learn{
+  background-color: #88b4fc;
+  color: white;
+  transition: 0.5s;
+  font-size: 18px;
+    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.learn:hover{
+  background-color: #88b4fc;
+  color: white;
+  opacity: 0.6;
+}
+
+.learn:active{
+  background-color: #88b4fc;
+  color: white;
+  opacity: 0.6;
+}
+
+.contact{
+  background-image: url('https://images.pexels.com/photos/6552/nature-person-red-woman.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: bold;
+}
+
+.contact:hover{
+  box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sleep{
+  font-size: 30px;
+  background: #88b4fc;
+}
+
+.heading{
+  font-size: 30px !important;
+  color: #757677;
+}
+
+.small{
+  color: white;
+  font-size: 20px;
+  font-weight: 15px;
+}
+
+#testimonial{
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Josefin Sans';
+  color: #000;
+}
+
+#testimonial p.client{
+  font-size: 20px;
+  color:  #88b4fc;
+}
