@@ -41,7 +41,7 @@ h2{
 }
 
 .support:hover {
-  background-color: #88b4fc; /* Green */
+  background-color: #88b4fc;
   color: black;
 }
 
@@ -50,7 +50,7 @@ h2{
   color: white;
   transition: 0.5s;
   font-size: 18px;
-    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 
